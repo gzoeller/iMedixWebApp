@@ -1,0 +1,138 @@
+
+body
+{
+    background-color:#AEFFFF;
+    margin:0px;
+    padding:0px;
+
+}
+@media screen and (min-width:867px)
+{
+#mainfunc
+{
+    position:relative;
+    width:500px;
+    height:2000px;
+    margin:0 auto;
+    background-color:transparent;
+}
+#topbar
+{
+    background-color:#777777;
+    height:60px;
+    width:100%;
+    border-bottom-color:black;
+    border-bottom:2px solid;
+}
+#logo
+{
+    position:absolute;
+    width:200px;
+    margin-left:40px;
+}
+#login
+{
+    margin-top:100px;
+    margin-left:125px;
+}
+#loginbox
+{
+    position:relative;
+    width:500px;
+    height:300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    background-color:#dddddd;
+    border:2px solid;
+    border-radius:25px;
+    -moz-border-radius:25px;
+}
+#pagetitle
+{
+    
+    font-size:60px;
+    color:#FFFFFF;
+    width:500px;
+    margin-top:-57px;
+    margin-left:80px;
+}
+#bottommenu
+{
+    position: absolute;
+    margin-left:250px;
+    
+}
+#button
+{
+    width:70px;
+    height:30px;
+    margin-left:100px;
+}
+}
+@media screen and (max-width:866px)
+{
+#mainfunc
+{
+    position:relative;
+    width:500px;
+    height:2000px;
+    margin:0 auto;
+    background-color:transparent;
+}
+#topbar
+{
+    background-color:#777777;
+    height:60px;
+    width:100%;
+    border-bottom-color:black;
+    border-bottom:2px solid;
+}
+#logo
+{
+    position:absolute;
+    width:200px;
+    margin-left:40px;
+}
+#login
+{
+    margin-top:100px;
+    margin-left:25px;
+}
+#loginbox
+{
+    position:relative;
+    width:300px;
+    height:300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    background-color:#dddddd;
+    border:2px solid;
+    border-radius:25px;
+    -moz-border-radius:25px;
+}
+#pagetitle
+{
+    
+    font-size:60px;
+    color:#000000;
+    width:500px;
+    margin-top:0px;
+    margin-left:80px;
+    margin-bottom:0px;
+    margin-right:0px;
+}
+#bottommenu
+{
+    position: absolute;
+    margin-left:125px;
+    
+}
+#button
+{
+    width:70px;
+    height:30px;
+    margin-left:100px;
+}
+}
